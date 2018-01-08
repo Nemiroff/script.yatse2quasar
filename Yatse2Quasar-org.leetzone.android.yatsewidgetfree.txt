@@ -1,0 +1,26 @@
+[BEGIN]
+Custom Patch Created on: 08-January-2018
+
+Yatse (Replase Call Quasar plugin to script.yatse2quasar)
+for version 7+
+Custom Patch created by Nemiroff
+Website: http://nemiroff.github.io
+
+Instructions:
+1.) Download "Yatse" from Google Play Store or install the offline apk version.
+2.) Apply this custom patch or create modified apk.
+3.) Wait for a while and you'll get a success GREEN message!
+3.) Enjoy.
+
+[PACKAGE]
+[ODEX-PATCH]
+// plugin.video.quasar
+{"original":"70 6C 75 67 69 6E 2E 76 69 64 65 6F 2E 71 75 61 73 61 72"}
+{"replaced":"73 63 72 69 70 74 2E 79 61 74 73 65 32 71 75 61 73 61 72"}
+
+[END]
+Congratulations!
+Call Quasar plugin change to script.yatse2quasar.
+If Custom patch fails then patch it again
+
+Enjoy :D

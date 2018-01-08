@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Основные">
+		<setting label="Открывать MagnetURL в" type="select" id="open_with" values="Elementum|Quasar|Torrenter V2" default="Elementum"/>
+	</category>
+</settings>
