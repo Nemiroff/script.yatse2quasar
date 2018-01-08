@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.yatse2quasar" name="Yatse2Quasar" version="0.0.1" provider-name="Nemiroff">
+    <requires>
+        <import addon="xbmc.python" version="2.24.0" />
+    </requires>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Yatse2Quasar</summary>
+        <description lang="en">Proxy script for launch Quasar or Elementum or Torrenter from Android Yatse app.</description>
+        <description lang="ru">Прокси скрипт для запуска Quasar, Elementum, Torrenter из Android приложения Yatse.</description>
+        <language>ru en</language>
+        <platform>all</platform>
+        <website>https://nemiroff.github.io/kodi_repo/</website>
+        <source>https://github.com/Nemiroff/script.yatse2quasar/</source>
+        <forum></forum>
+        <license></license>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
