@@ -16,6 +16,7 @@
         <source>https://github.com/Nemiroff/script.yatse2quasar/</source>
         <forum></forum>
         <license></license>
+        <broken>deprecated</broken>
         <assets>
             <icon>icon.png</icon>
         </assets>
